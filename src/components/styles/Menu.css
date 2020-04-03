@@ -1,0 +1,26 @@
+.navbar{
+    font-family: Roboto;
+    font-size: 0.5rem;
+    font-weight: 500;
+    margin-top: 0rem;
+    
+    }
+
+.logo.navbar-brand{
+        font-size: 0.7rem;
+        font-family: Roboto;
+        
+    }
+
+.navbar-nav{
+    margin: 0 auto;
+}
+
+.nav-link{
+    color:rgb(255, 255, 255);
+}
+
+.nav-link:hover{
+    color:#FF8484;
+}
+

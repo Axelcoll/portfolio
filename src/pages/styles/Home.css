@@ -1,0 +1,64 @@
+.Portada{
+    position: absolute;
+    width: 1280px;
+    height: auto;
+    top:0px;
+}
+
+.Bienvenido{
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 3rem;
+    color: #FF8484;
+
+}
+
+.BodyHome{
+    overflow: hidden;
+}
+
+.Contenedor{
+    top: 12rem;
+    left: 5rem;
+    position: absolute;
+    display: flex;
+	flex-direction: column;
+	
+	justify-content: space-around;
+	
+	
+}
+.Descripcion{
+    color:white;
+    font-family: Roboto;
+    font-weight: 200;
+    font-size: 0.8rem;
+    line-height: 1rem;
+
+}
+
+.btnmasinfo{
+    font-size: 0.5rem;
+    border-radius: 1rem;
+    border: 1px solid #fff;
+    background: none;
+    color:white;
+    width: 6rem;
+    height: auto;
+    padding: 0.3rem;
+    transition: 1s;
+    
+}
+
+.btn-outline-secondary.MasInfo{
+    position: absolute;
+    border-radius: 10rem;
+    font-size: 0.5rem;
+    font-family: Roboto;
+    padding-right: 1.3rem;
+    padding-left: 1.3rem;
+}
+
+
+
